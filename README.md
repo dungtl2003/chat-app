@@ -6,6 +6,10 @@ A chat app for chatting, using microservices.
 
 ![Structure](./assets/chat-app-structure.png)
 
+## Database Schema
+
+![Database Schema](./assets/schema.png)
+
 ## Features
 
 - User authentication
