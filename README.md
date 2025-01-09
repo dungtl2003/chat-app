@@ -1,8 +1,21 @@
-# chat-app
+# Chat App
 
 A chat app for chatting, using microservices. 
 
-# Related Repositories
+## Structure
+
+![Structure](./assets/chat-app-structure.png)
+
+## Features
+
+- User authentication
+- Real-time chat
+- User management
+- Chat management
+- Group chat
+- Message history
+
+## Related Repositories
 
 - [chat-app-client](https://github.com/huygia12/chat-app-client)
 - [chat-app-auth-service](https://github.com/dungtl2003/chat-app-auth-service)
