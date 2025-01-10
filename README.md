@@ -6,10 +6,6 @@ A chat app for chatting, using microservices.
 
 ![Structure](./assets/chat-app-structure.png)
 
-## Database Schema
-
-![Database Schema](./assets/schema.png)
-
 ## Features
 
 - User authentication
@@ -27,3 +23,4 @@ A chat app for chatting, using microservices.
 - [chat-app-user-service](https://github.com/huygia12/chat-app-user-service)
 - [chat-app-chat-service](https://github.com/dungtl2003/chat-app-chat-service)
 - [snowflake-uuid-service](https://github.com/dungtl2003/snowflake-uuid)
+- [chat-app-database](https://github.com/dungtl2003/chat-app-database)
